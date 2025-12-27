@@ -1,6 +1,8 @@
 # 💫 About Me:
-Shopify, React, Nextjs, Typescript, Nodejs, Expressjs Fullstack web applications Improve my skills Almost 6 years of experience 
-
+Specialize in Frontend Development using Shopify, React, Nextjs and Typescript<br>
+Also experienced with Backend technologies such as Nodejs, Expressjs <br>
+Trying to improve my skills as a Fullstack Developer <br>
+Almost 6 years of professional experience 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BuzzBunny98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/buzzbun_ny) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabal-bajracharya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prblbuzz@gmail.com) 
